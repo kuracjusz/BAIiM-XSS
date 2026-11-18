@@ -6,7 +6,7 @@ Do uruchomienia środowiska potrzebujesz zainstalowanego **Dockera** (np. Docker
 
 ## 🚀 Uruchomienie środowiska
 
-### 1. Damn Vulnerable Web Application (DVWA) – Zadania 1–4
+### 1. Damn Vulnerable Web Application (DVWA)
 
 ```bash
 docker run --rm -d -p 127.0.0.1:8080:80 --name dvwa vulnerables/web-dvwa
